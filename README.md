@@ -8,4 +8,7 @@ The player must guide his carriage to the end of the randomly generated level us
         - Procedural generated levels
         - Developed for Android
 
-<img src="images/gameplay.gif" height="700px">
+https://github.com/user-attachments/assets/b66e1168-21d3-4c8b-bd16-63ccf1bdfad0
+
+
+
