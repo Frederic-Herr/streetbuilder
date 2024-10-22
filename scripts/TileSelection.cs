@@ -25,7 +25,6 @@ public class TileSelection : MonoBehaviour
         }
     }
 
-    [SerializeField] private GameObject[] fakeRerollTiles;
     [SerializeField] private bool useSeed;
     [SerializeField] private bool autoReroll = true;
     [SerializeField, ShowIf(nameof(autoReroll))] private float rerollTime = 3f;

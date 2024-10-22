@@ -58,7 +58,7 @@ The Tile Selection provides the player with a random selection of road sections 
 
 ## Missions
 
-### MissionManager [(View Script)](scripts/MissionManager.cs)
+### Mission Manager [(View Script)](scripts/MissionManager.cs)
 
 The Mission Manager handles all active missions. The save the current state of the missions i used the [Easy Save](https://assetstore.unity.com/packages/tools/utilities/easy-save-the-complete-save-game-data-serializer-system-768) asset.
 
